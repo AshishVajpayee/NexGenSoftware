@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NexGenSoftware/static/css/main.8cd1f486.chunk.css",
+    "main.js": "/NexGenSoftware/static/js/main.7641a317.chunk.js",
+    "main.js.map": "/NexGenSoftware/static/js/main.7641a317.chunk.js.map",
+    "runtime-main.js": "/NexGenSoftware/static/js/runtime-main.94446bd1.js",
+    "runtime-main.js.map": "/NexGenSoftware/static/js/runtime-main.94446bd1.js.map",
+    "static/js/2.24632f91.chunk.js": "/NexGenSoftware/static/js/2.24632f91.chunk.js",
+    "static/js/2.24632f91.chunk.js.map": "/NexGenSoftware/static/js/2.24632f91.chunk.js.map",
+    "index.html": "/NexGenSoftware/index.html",
+    "static/css/main.8cd1f486.chunk.css.map": "/NexGenSoftware/static/css/main.8cd1f486.chunk.css.map",
+    "static/js/2.24632f91.chunk.js.LICENSE.txt": "/NexGenSoftware/static/js/2.24632f91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94446bd1.js",
+    "static/js/2.24632f91.chunk.js",
+    "static/css/main.8cd1f486.chunk.css",
+    "static/js/main.7641a317.chunk.js"
+  ]
+}
