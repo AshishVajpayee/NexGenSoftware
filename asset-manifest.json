@@ -1,20 +1,25 @@
 {
   "files": {
     "main.css": "/NexGenSoftware/static/css/main.8cd1f486.chunk.css",
-    "main.js": "/NexGenSoftware/static/js/main.7641a317.chunk.js",
-    "main.js.map": "/NexGenSoftware/static/js/main.7641a317.chunk.js.map",
+    "main.js": "/NexGenSoftware/static/js/main.a9aedd11.chunk.js",
+    "main.js.map": "/NexGenSoftware/static/js/main.a9aedd11.chunk.js.map",
     "runtime-main.js": "/NexGenSoftware/static/js/runtime-main.94446bd1.js",
     "runtime-main.js.map": "/NexGenSoftware/static/js/runtime-main.94446bd1.js.map",
     "static/js/2.24632f91.chunk.js": "/NexGenSoftware/static/js/2.24632f91.chunk.js",
     "static/js/2.24632f91.chunk.js.map": "/NexGenSoftware/static/js/2.24632f91.chunk.js.map",
     "index.html": "/NexGenSoftware/index.html",
     "static/css/main.8cd1f486.chunk.css.map": "/NexGenSoftware/static/css/main.8cd1f486.chunk.css.map",
-    "static/js/2.24632f91.chunk.js.LICENSE.txt": "/NexGenSoftware/static/js/2.24632f91.chunk.js.LICENSE.txt"
+    "static/js/2.24632f91.chunk.js.LICENSE.txt": "/NexGenSoftware/static/js/2.24632f91.chunk.js.LICENSE.txt",
+    "static/media/card1.3eb61fbf.png": "/NexGenSoftware/static/media/card1.3eb61fbf.png",
+    "static/media/card2.52f1e7a8.png": "/NexGenSoftware/static/media/card2.52f1e7a8.png",
+    "static/media/card3.6909c4ad.png": "/NexGenSoftware/static/media/card3.6909c4ad.png",
+    "static/media/img1.3f55b7b7.png": "/NexGenSoftware/static/media/img1.3f55b7b7.png",
+    "static/media/video.254ff1cd.mp4": "/NexGenSoftware/static/media/video.254ff1cd.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.94446bd1.js",
     "static/js/2.24632f91.chunk.js",
     "static/css/main.8cd1f486.chunk.css",
-    "static/js/main.7641a317.chunk.js"
+    "static/js/main.a9aedd11.chunk.js"
   ]
 }
