@@ -1,7 +1,10 @@
+import BackgroundVideo from "./video/video.mp4";
 function Header() {
   return (
     <header>
-      <video src="/video.mp4" loop autoPlay muted></video>
+      <video loop autoPlay muted>
+        <source src={BackgroundVideo} type="video/mp4" />
+      </video>
       <h1>Think Different</h1>
       <div className="row">
         <button className="btn" style={{ cursor: "pointer" }}>
