@@ -6,7 +6,7 @@ function Header() {
         <source src={BackgroundVideo} type="video/mp4" />
       </video>
       <h1>Think Different</h1>
-      <div className="row">
+      <div className="row"> 
         <button className="btn" style={{ cursor: "pointer" }}>
           Sign Up
         </button>
