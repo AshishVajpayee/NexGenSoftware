@@ -1,5 +1,27 @@
 # Getting Started with Create React App
 
+
+### To Run this Project Follow the steps given below
+`Note:` You should have Installed NodeJs. If you don't have NodeJs, install it from here -> [Install NodeJs](https://nodejs.org/en/). After installing NodeJS Restart your Computer.
+ 
+ ```python
+ git clone https://github.com/AshishVajpayee/NexGenSoftware.git
+ ```
+### Change Directory to NexGenSoftware
+
+```bash
+cd NexGenSoftware
+```
+
+### Install Dependencies 
+```bash
+npm i npm-install-all
+```
+
+### Next Run Your React-App
+```bash
+npm start
+```
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,3 +90,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Host your website to GitHub Pages
+
