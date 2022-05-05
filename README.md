@@ -13,9 +13,9 @@
 cd NexGenSoftware
 ```
 
-### Install Dependencies 
+### Install Dependencies and node modules
 ```bash
-npm i npm-install-all
+npm i
 ```
 
 ### Next Run Your React-App
