@@ -74,7 +74,7 @@ function Footer() {
           </div>
         </div>
       </div>
-      <button onClick={() => scroll.scrollToTop(2500)} src="" className="gotop"><i class='fas fa-level-up-alt fa-lg'></i><br/></button>
+      <button onClick={() => scroll.scrollToTop(2500)} src="" className="gotop"><i className='fas fa-level-up-alt fa-lg'></i><br/></button>
 
     </footer>
   );

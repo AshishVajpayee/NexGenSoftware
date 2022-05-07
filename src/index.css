@@ -512,6 +512,11 @@ ul li a {
     padding:  10px 30px;
 
   }
+
+  .btn:hover{
+    cursor: pointer;
+  }
+
   .container {
       max-width: 540px; 
   }
@@ -576,4 +581,15 @@ ul li a {
 }
 .mb-1 {
   margin-bottom: 1rem!important;
+}
+
+
+/* Login Form */
+
+.form-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #6365ff;
+  
 }
