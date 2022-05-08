@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-<a><img align="right" src="https://github.com/AshishVajpayee/NexGenSoftware/blob/master/src/LogoNex.png" target="_blank" width="300"/></a>
+<a><img align="right" src="https://github.com/AshishVajpayee/NexGenSoftware/blob/master/src/LogoNex.svg" target="_blank" width="300"/></a>
 
 
 ### To Run this Project Follow the steps given below
