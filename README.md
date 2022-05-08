@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+<a><img align="right" src="https://github.com/AshishVajpayee/NexGenSoftware/blob/master/src/LogoNex.png" target="_blank" width="300"/></a>
+
 
 ### To Run this Project Follow the steps given below
 `Note:` You should have Installed NodeJs. If you don't have NodeJs, install it from here -> [Install NodeJs](https://nodejs.org/en/). After installing NodeJS Restart your Computer.
